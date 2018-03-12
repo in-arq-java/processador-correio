@@ -4,15 +4,15 @@
 
     <parent>
         <groupId>br.nom.penha.bruno.arquiteto</groupId>
-        <artifactId>projeto-pai</artifactId>
+        <artifactId>processador-correio</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
 
-    <artifactId>ProcessarCorreio</artifactId>
+    <artifactId>ProcessadorCorreioEjb</artifactId>
     <packaging>ejb</packaging>
 
-    <name>ProcessarCorreio</name>
+    <name>ProcessadorCorreioEjb</name>
 
     <build>
         <plugins>
