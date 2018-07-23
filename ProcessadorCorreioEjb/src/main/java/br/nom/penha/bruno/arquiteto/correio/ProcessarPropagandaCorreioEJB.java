@@ -10,7 +10,7 @@ public class ProcessarPropagandaCorreioEJB implements ProcessarPropagandaCorreio
 
     @Override
     public void enviarMensagem(String mensagem) {
-        System.out.println("Enviando mensagem" + mensagem);
+        System.out.println("Enviando mensagem " + mensagem);
     }
     
 }
